@@ -1,0 +1,9 @@
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\bin\Debug\Job.exe.config
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\bin\Debug\Job.exe
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\bin\Debug\Job.pdb
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\bin\Debug\Newtonsoft.Json.dll
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\bin\Debug\Newtonsoft.Json.pdb
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\bin\Debug\Newtonsoft.Json.xml
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\obj\Debug\Job.exe
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\obj\Debug\Job.pdb
+c:\users\mamorales\documents\visual studio 2013\Projects\Job\Job\obj\Debug\Job.csprojResolveAssemblyReference.cache
